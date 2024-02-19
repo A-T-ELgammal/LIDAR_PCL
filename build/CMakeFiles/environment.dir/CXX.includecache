@@ -6,21 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/ahmed/projects/LIDAR-PCL/project/src/environment.cpp
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/environment.cpp
 sensors/lidar.h
-/home/ahmed/projects/LIDAR-PCL/project/src/sensors/lidar.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/sensors/lidar.h
 render/render.h
-/home/ahmed/projects/LIDAR-PCL/project/src/render/render.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.h
 processPointClouds.h
-/home/ahmed/projects/LIDAR-PCL/project/src/processPointClouds.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/processPointClouds.h
 processPointClouds.cpp
-/home/ahmed/projects/LIDAR-PCL/project/src/processPointClouds.cpp
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/processPointClouds.cpp
 
-/home/ahmed/projects/LIDAR-PCL/project/src/processPointClouds.cpp
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/processPointClouds.cpp
 processPointClouds.h
-/home/ahmed/projects/LIDAR-PCL/project/src/processPointClouds.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/processPointClouds.h
 
-/home/ahmed/projects/LIDAR-PCL/project/src/processPointClouds.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/processPointClouds.h
 pcl/io/pcd_io.h
 -
 pcl/common/common.h
@@ -50,21 +50,21 @@ ctime
 chrono
 -
 render/box.h
-/home/ahmed/projects/LIDAR-PCL/project/src/render/box.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/box.h
 
-/home/ahmed/projects/LIDAR-PCL/project/src/render/box.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/box.h
 Eigen/Geometry
 -
 
-/home/ahmed/projects/LIDAR-PCL/project/src/render/render.cpp
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.cpp
 render.h
-/home/ahmed/projects/LIDAR-PCL/project/src/render/render.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.h
 
-/home/ahmed/projects/LIDAR-PCL/project/src/render/render.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
 box.h
-/home/ahmed/projects/LIDAR-PCL/project/src/render/box.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/box.h
 iostream
 -
 vector
@@ -72,9 +72,9 @@ vector
 string
 -
 
-/home/ahmed/projects/LIDAR-PCL/project/src/sensors/lidar.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/sensors/lidar.h
 ../render/render.h
-/home/ahmed/projects/LIDAR-PCL/project/src/render/render.h
+/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.h
 ctime
 -
 chrono
