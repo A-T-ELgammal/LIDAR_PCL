@@ -56,10 +56,6 @@ render/box.h
 Eigen/Geometry
 -
 
-/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.cpp
-render.h
-/home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.h
-
 /home/ahmed/projects/LIDAR&PCL/LIDAR_PCL/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
